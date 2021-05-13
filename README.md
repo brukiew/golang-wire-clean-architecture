@@ -1,5 +1,6 @@
 
 # golang-wire-clean-architecture
+Base template for golang project using wire(dependency injection) and clean architecture.
 
 ## build project
 go build
