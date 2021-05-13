@@ -3,9 +3,9 @@
 Base template for golang project using wire(dependency injection), gin and clean architecture.
 
 Dependencies:
-wire: https://github.com/google/wire
-gin: https://github.com/gin-gonic/gin
-gomock: https://github.com/golang/mock
+wire: https://github.com/google/wire  
+gin: https://github.com/gin-gonic/gin  
+gomock: https://github.com/golang/mock  
 
 ## build project
 go build
