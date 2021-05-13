@@ -2,7 +2,7 @@
 # golang-wire-clean-architecture
 Base template for golang project using wire(dependency injection), gin and clean architecture.
 
-Dependencies:
+Dependencies:  
 wire: https://github.com/google/wire  
 gin: https://github.com/gin-gonic/gin  
 gomock: https://github.com/golang/mock  
